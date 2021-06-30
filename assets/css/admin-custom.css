@@ -1,0 +1,41 @@
+.btn-succes{
+    background: green !important;
+    border-color: green !important;
+    color: #fff !important;
+    text-decoration: none;
+    text-shadow: none;
+}
+.btn-cancel{
+	background: red !important;
+    border-color: red !important;
+    color: #fff !important;
+    text-decoration: none;
+    text-shadow: none;
+}
+.btn-notif{
+	background: #ea7d1e !important;
+    border-color: #ea7d1e !important;
+    color: #fff !important;
+    text-decoration: none;
+    text-shadow: none;
+}
+.table_width{
+    width: 100% !important;
+}
+.th_header{
+    background: #000;
+    color: #FFF;
+}
+.element_tr, th{
+    padding: 12px;
+}
+.element_t > td{
+    padding: 12px !important;
+    border: 1px solid #ccc !important;
+}
+.detail-subscription{
+    font-size: 23px !important;
+}
+.title_form{
+    font-size: 18px !important;
+}
